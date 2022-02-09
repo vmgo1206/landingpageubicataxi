@@ -1,0 +1,70 @@
+body{
+	
+}
+:root{
+	--color-negro:#fffff;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+
+	
+}
+
+header{
+	background-color: #C94B00;
+	color: aliceblue
+	
+		
+}
+#body{
+	background-color:#FD7626;
+	color:aliceblue;
+	text-align: center;
+	padding: 4% 0;
+	font-size: 4px;
+		
+		}
+
+		
+#refi{
+	background-color:aliceblue;
+	color: #FD932A;
+	text-align: center;
+}
+
+#intro{
+	background-color: #FFFFFF;
+	color: #C94B00;
+	text-align: center;
+	font-size: 10px 0px;
+	}
+		
+		
+
+#info{
+	background-color: #C94B00;
+	color: #C94B00;
+	font-size: 13px;
+	padding: -5px;
+	
+}
+
+#info2{
+	background-color: #fFF;
+	color: #C94B00;
+	text-align: center;
+	font-size: 10px;
+	padding-bottom: 10px;
+}
+
+
+footer{
+	background-color: #C94B00;
+	color: #FFFFFF;
+	padding: 30px;
+	text-align: center;
+	
+}
+
+
+
